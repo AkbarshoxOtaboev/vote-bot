@@ -1,4 +1,4 @@
-package uz.advance.votebot.entities;
+package uz.advance.votebot.user;
 
 public enum Role {
     USER,
