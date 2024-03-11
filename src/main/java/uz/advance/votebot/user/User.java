@@ -39,6 +39,8 @@ public class User implements UserDetails {
 
     private String passportID;
 
+    private Integer status;
+
     @Enumerated(EnumType.STRING)
     private Role role;
 

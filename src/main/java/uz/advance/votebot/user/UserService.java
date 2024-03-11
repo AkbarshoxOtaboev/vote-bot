@@ -1,7 +1,6 @@
 package uz.advance.votebot.user;
 
 import lombok.RequiredArgsConstructor;
-import lombok.var;
 import org.springframework.security.core.context.SecurityContextHolder;
 import org.springframework.security.core.userdetails.UserDetailsService;
 import org.springframework.security.core.userdetails.UsernameNotFoundException;
